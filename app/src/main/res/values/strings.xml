@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Restaurant App 3</string>
+    <string name="starter">Starter</string>
+    <string name="drinks">Drinks</string>
+    <string name="dessert">Dessert</string>
+    <string name="main_course">Main Course</string>
+    <string name="menu">Menu</string>
+    <string name="contact">Contact</string>
+    <string name="profile">Profile</string>
+    <string name="restaurant_summary">Welcome to our restaurant! We specialize in
+        delicious cuisine made from the freshest ingredients. Our chefs prepare each
+        dish with care and attention to detail. Visit us for an unforgettable dining
+        experience!</string>
+    <string name="open">Open Navigation</string>
+    <string name="close">Close Navigation</string>
+    <string name="address">460 Portage Avenue, Winnipeg, Manitoba, Canada R3B 2E9</string>
+    <string name="contact_info_title">Contact Information</string>
+    <string name="contact_info_description">Restaurant contact information</string>
+    <string name="address_label">Address:</string>
+    <string name="address_label_description">Address label</string>
+    <string name="address_description">Restaurant address</string>
+    <string name="phone_label">Phone:</string>
+    <string name="phone_label_description">Phone label</string>
+    <string name="phone_number">431-338-7862</string>
+    <string name="phone_number_description">Restaurant phone number</string>
+    <string name="make_reservation">Make New Reservation</string>
+    <string name="make_reservation_description">Button to make a new reservation</string>
+</resources>

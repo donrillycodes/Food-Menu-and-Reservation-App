@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home_screen_24"
+        android:title="@string/menu" />
+
+    <item
+        android:id="@+id/navigation_starter"
+        android:icon="@drawable/starter_24"
+        android:title="@string/starter" />
+
+    <item
+        android:id="@+id/navigation_main_course"
+        android:icon="@drawable/main_course_24"
+        android:title="@string/main_course" />
+
+    <item
+        android:id="@+id/navigation_dessert"
+        android:icon="@drawable/dessert_24"
+        android:title="@string/dessert" />
+
+    <item
+        android:id="@+id/navigation_drinks"
+        android:icon="@drawable/drink_24"
+        android:title="@string/drinks" />
+
+</menu>

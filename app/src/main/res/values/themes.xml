@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RestaurantApp3" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#2A2D43</item>
+        <item name="android:colorPrimaryDark">#32213A</item>
+        <item name="colorAccent">#414361</item>
+<!--        <item name="android:buttonStyle">#2A2D43</item>-->
+
+    </style>
+
+    <style name="Theme.RestaurantApp3" parent="Base.Theme.RestaurantApp3" />
+
+    <style name="BottomNavigation" parent="Base.Theme.RestaurantApp3">
+        <item name="android:background">#2A2D43</item>
+        <item name="itemIconTint">#ffffff</item>
+        <item name="itemTextColor">#ffffff</item>
+    </style>
+
+</resources>
